@@ -1,0 +1,42 @@
+---
+:source:
+  :path: test
+  :file: test_strings.c
+:successes:
+- :test: test_len
+  :line: 4
+  :message: ''
+  :unity_test_time: 0
+- :test: test_join
+  :line: 10
+  :message: ''
+  :unity_test_time: 0
+- :test: test_slice
+  :line: 16
+  :message: ''
+  :unity_test_time: 0
+- :test: test_reverse
+  :line: 22
+  :message: ''
+  :unity_test_time: 0
+- :test: test_trim
+  :line: 27
+  :message: ''
+  :unity_test_time: 0
+- :test: test_prepend
+  :line: 33
+  :message: ''
+  :unity_test_time: 0
+- :test: test_append
+  :line: 37
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 7
+  :passed: 7
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 0.0004797189999408147
